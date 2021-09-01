@@ -1,1 +1,4 @@
 odoo_test_helper
+
+# TODO: Remove this commit before merging
+odoo14-addon-attribute-set-completeness @ git+https://github.com/OCA/odoo-pim@refs/pull/98/head#subdirectory=setup/attribute_set_completeness
